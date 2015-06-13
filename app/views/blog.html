@@ -1,0 +1,8 @@
+<p>Blog</p>
+
+<article dir-paginate="post in posts | itemsPerPage: 5">
+  <h1><a href="#/post/{{ posts.indexOf(post) }}">{{ post.title }}</a></h1>
+  <p>{{ post.exerpt }}</p>
+  <a href="#/post/{{ posts.indexOf(post) }}">Read more &rarr;</a>
+  <dir-pagination-controls></dir-pagination-controls>
+</article>

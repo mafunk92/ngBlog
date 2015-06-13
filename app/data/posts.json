@@ -1,0 +1,12 @@
+[
+  {
+    "title"   :   "Hello World",
+    "exerpt"  :   "Building my AngularJs Blog from scratch on my own.",
+    "content" :   "So I have been learning a lot about AngularJS the past couple of days. I have gone through many tutorials and have finally gotten the experience to. Eventually I will want to be able to use markdown in the site for easier blogging."
+  },
+  {
+    "title"    :   "test",
+    "exerpt"   :   "tester",
+    "content"  :   "tested"
+    }
+]
